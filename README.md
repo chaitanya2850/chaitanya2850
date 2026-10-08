@@ -1,16 +1,71 @@
-## Hi there 👋
+Hii, I'm Chaitanya !!!
 
-<!--
-**chaitanya2850/chaitanya2850** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech IT Student · Java Backend Developer · Android Developer · IoT Enthusiast
 
-Here are some ideas to get you started:
+I'm a final-year Information Technology student focused on Java, Spring Boot, backend development, Android development, IoT, databases, and Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning by building things, solving problems, and understanding the technology behind what I build.
+
+---
+
+🛠️ Tech Stack
+
+Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,php" />
+</p>
+
+Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,maven" />
+</p>
+
+Android Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,android" />
+</p>
+
+Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" />
+</p>
+
+IoT
+
+<p>
+  <img src="https://img.shields.io/badge/Internet%20of%20Things-333333?style=for-the-badge&logoColor=white" />
+</p>
+
+Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github" />
+</p>
+
+---
+
+Areas of Interest
+
+- Backend Development
+- Android Development
+- IoT & Connected Systems
+- Database Management
+- Linux & System Fundamentals
+- Docker & Containerization
+- Open Source
+
+---
+
+Problem Solving
+
+I regularly practice Data Structures & Algorithms to strengthen my problem-solving and programming fundamentals.
+
+---
+
+<div align="center">Build → Break → Debug → Understand → Repeat
+
+</div>
