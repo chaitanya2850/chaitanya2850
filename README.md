@@ -60,12 +60,6 @@ Areas of Interest
 
 ---
 
-Problem Solving
-
-I regularly practice Data Structures & Algorithms to strengthen my problem-solving and programming fundamentals.
-
----
-
 <div align="center">Build → Break → Debug → Understand → Repeat
 
 </div>
