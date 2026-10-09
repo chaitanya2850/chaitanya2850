@@ -6,6 +6,8 @@ I'm a final-year Information Technology student focused on Java, Spring Boot, ba
 
 I enjoy learning by building things, solving problems, and understanding the technology behind what I build.
 
+🌐 **Portfolio:**  https://chaitanya-patil-portfolio-app.netlify.app
+
 ---
 
 🛠️ Tech Stack
